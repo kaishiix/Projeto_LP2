@@ -27,10 +27,8 @@ A automação de tarefas no gerenciamento de arquivos é uma das maneiras mais e
 
 ### Screenshots
 
-![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223157.png)
-![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223615.png)
-![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223626.png)
-![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223645.png)
+![screenshot]()
+
 
 
 
