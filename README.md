@@ -4,8 +4,6 @@ Projeto de avaliação da disciplina de Linguagem de programação II
 ## Índice
 - [O Projeto](#the-project)
 - [Membros](#membros)
-- [Imagens](#screenshot)
-- [Links](#links)
 - [Tecnologia](#tecnologias-e-recursos)
 
 ## O Projeto
