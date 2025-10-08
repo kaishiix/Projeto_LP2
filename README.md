@@ -20,9 +20,6 @@ A automação de tarefas no gerenciamento de arquivos é uma das maneiras mais e
 - Matheus Jesus @cvjmateus
 - Francisco Gabriel 
 
-### Links
-
-- Site URL: [Link ativo](https://kaishiix.github.io/potfoliovf/)
 
 
 ### Screenshots
