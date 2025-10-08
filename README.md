@@ -12,6 +12,12 @@ Projeto de avaliação da disciplina de Linguagem de programação II
 
 Projeto final da primeira etapa do módulo full-stack do bootcamp Atlântico Avanti. Um site de portfólio contendo projetos e atuação como desenvolvedor full-stack.
 
+## Membros
+Romulo
+Lauhana
+Lucas
+Matheus 
+GAbriel 
 
 ### Links
 
